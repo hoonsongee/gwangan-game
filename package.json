@@ -1,0 +1,1 @@
+{"name":"gwangan-3d-playtest","version":"2.0.0","private":true,"scripts":{"start":"node server.js","check":"node --check server.js"},"dependencies":{"express":"^4.21.2","socket.io":"^4.8.1","three":"^0.180.0"}}
